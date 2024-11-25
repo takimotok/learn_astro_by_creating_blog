@@ -1,2 +1,3 @@
-# learn_astro_by_creating_blog
-learn Astro and deploy to Netlify.
+# Learn Astro by creating blog
+
+cf.) [Build your first Astro Blog | Docs](https://docs.astro.build/en/tutorial/0-introduction/)

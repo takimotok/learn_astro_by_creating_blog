@@ -1,0 +1,8 @@
+{
+  "name": "kengo's blog",
+  "version": "0.0.1",
+  "packageManager": "yarn@4.5.2",
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4"
+  }
+}
