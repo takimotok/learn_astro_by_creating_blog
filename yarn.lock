@@ -96,9 +96,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"takimotok's resume@workspace:.":
+"kengo's blog@workspace:.":
   version: 0.0.0-use.local
-  resolution: "takimotok's resume@workspace:."
+  resolution: "kengo's blog@workspace:."
   dependencies:
     "@biomejs/biome": "npm:1.9.4"
   languageName: unknown
