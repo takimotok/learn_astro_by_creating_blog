@@ -1430,18 +1430,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"app@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "app@workspace:."
-  dependencies:
-    "@astrojs/language-server": "npm:2.15.4"
-    "@biomejs/biome": "npm:1.9.4"
-    astro: "npm:4.16.13"
-    prettier: "npm:3.3.3"
-    prettier-plugin-astro: "npm:0.14.1"
-  languageName: unknown
-  linkType: soft
-
 "argparse@npm:^1.0.7":
   version: 1.0.10
   resolution: "argparse@npm:1.0.10"
@@ -2774,6 +2762,18 @@ __metadata:
   checksum: 10c0/269c3ae0a0e4f907a914bf334306c384aabb9929bd8c99f909275ebd5c2d3bc70b9bcd119ad794f339dec9f24b6a4ee9cd5a8ab2e6435e730ad4075388fc2ab6
   languageName: node
   linkType: hard
+
+"kengo's blog@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "kengo's blog@workspace:."
+  dependencies:
+    "@astrojs/language-server": "npm:2.15.4"
+    "@biomejs/biome": "npm:1.9.4"
+    astro: "npm:4.16.13"
+    prettier: "npm:3.3.3"
+    prettier-plugin-astro: "npm:0.14.1"
+  languageName: unknown
+  linkType: soft
 
 "kind-of@npm:^6.0.0, kind-of@npm:^6.0.2":
   version: 6.0.3
