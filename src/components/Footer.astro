@@ -1,0 +1,32 @@
+---
+import Social from './Social.astro'
+
+// const platforms = {
+//   github: 'GitHub',
+//   x: 'X',
+// }
+// const usernames = {
+//   github: 'takimotok',
+//   x: 'KengoTAKIMOTO',
+// }
+---
+
+<style>
+  footer {
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+</style>
+
+<footer>
+  <!--
+  <p>
+    Learn more about me:
+    <a href={`https://www.${platforms.github}.com/${usernames.github}`}>{platforms.github}</a>
+    <a href={`https://www.${platforms.x}.com/${usernames.x}`}>{platforms.x}</a>
+  </p>
+  -->
+  <Social platform="github" username="takimotok" />
+  <Social platform="x" username="KengoTAKIMOTO" />
+</footer>
