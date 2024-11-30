@@ -3,6 +3,19 @@ html {
   font-family: sans-serif;
 }
 
+/* dark mode */
+html.dark {
+  background-color: #0d0950;
+  color: #fff;
+}
+
+.dark .nav-links a {
+  color: #fff;
+}
+
+/* --- end dark mode */
+
+
 body {
   margin: 0 auto;
   width: 100%;
